@@ -1,2 +1,3 @@
 # hello-world
 a place where you store ideas, resources, or even share and discuss things with others.
+I have been programming off and on for over 10 years, starting with FORTAN, turbo pascal, C and then C++,  VBA and python, with a little html, javascript and CSS.  Most of my programming was solving engineering calculations at work.  I am now trying to revist C++ and python learn the languages.  I also am messing aroud a little bit with reading assembly. I am learning C# also just to have a .net language to program windows applications. I use Visual Studio Community as my go to IDE.  I am still a beginner hobbyist.
